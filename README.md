@@ -3,7 +3,7 @@
 A highly converting, pixel-perfect, and fully responsive landing page for an online course built with Next.js, TypeScript, and Tailwind CSS.
 
 ## 🌟 **Live Demo**
-� [View Live Site](https://academypro.vercel.app) *(Your deployed URL here)*
+�👉 [View Live Site](https://academypro.vercel.app) 
 
 ## � Features
 
@@ -67,8 +67,8 @@ src/
 ### **Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/academypro-landing-page.git
-cd academypro-landing-page
+git clone https://github.com/smitpatel7202/academypro-landing-page-nextjs.git
+cd academypro-landing-page-nextjs
 
 # Install dependencies
 npm install
@@ -202,10 +202,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 **Author**
 
-**[Your Name]** - 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- Portfolio: [Your Portfolio](https://YOUR_WEBSITE.com)
+**[Smit Patel]** - 
+- GitHub: [@smitpatel7202](https://github.com/smitpatel7202)
+- LinkedIn: [Smit Patel](https://linkedin.com/in/patelsmit09)
+- Portfolio: [Smit Patel](https://patel-smitt.netlify.app)
 
 ## 🙏 **Acknowledgments**
 
