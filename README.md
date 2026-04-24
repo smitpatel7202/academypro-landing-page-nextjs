@@ -3,7 +3,7 @@
 A highly converting, pixel-perfect, and fully responsive landing page for an online course built with Next.js, TypeScript, and Tailwind CSS.
 
 ## 🌟 **Live Demo**
-�👉 [View Live Site](https://academypro.vercel.app) 
+�👉 [View Live Site](https://academmy-pro.vercel.app) 
 
 ## � Features
 
